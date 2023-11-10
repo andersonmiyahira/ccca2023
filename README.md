@@ -1,2 +1,5 @@
-# ccca2023
-Project created to study clean code and clean architeture (2023)
+Este conteúdo é parte do curso Clean Code e Clean Architecture da Branas.io
+
+Para mais informações acesse:
+
+https://branas.io
